@@ -1,3 +1,4 @@
 [submodule "dcat-admin-extensions/zwping/operation-log"]
 	path = dcat-admin-extensions/zwping/operation-log
 	url = git@github.com:zwping/operation-log.git
+	branch = master
