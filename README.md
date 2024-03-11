@@ -11,7 +11,7 @@ php artisan serve;
 
 ### 截图
 
-![main](https://raw.githubusercontent.com/zwping/dcat-admin-ext/master/screenshot/main.png)
+![main](https://raw.githubusercontent.com/zwping/dcat-admin-ext/main/screenshot/main.png)
 
 -----
 
