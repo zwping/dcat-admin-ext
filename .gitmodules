@@ -5,3 +5,12 @@
 [submodule "dcat-admin-extensions/zwping/backup"]
 	path = dcat-admin-extensions/zwping/backup
 	url = git@gitee.com:zwping/backup.git
+[submodule "dcat-admin-extensions/zwping/scheduling"]
+	path = dcat-admin-extensions/zwping/scheduling
+	url = git@gitee.com:zwping/scheduling.git
+[submodule "dcat-admin-extensions/zwping/api-tester"]
+	path = dcat-admin-extensions/zwping/api-tester
+	url = git@gitee.com:zwping/api-tester.git
+[submodule "dcat-admin-extensions/zwping/media-player"]
+	path = dcat-admin-extensions/zwping/media-player
+	url = git@github.com:zwping/media-player.git
