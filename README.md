@@ -24,6 +24,7 @@ php artisan serve;
 | [zwping/api-tester](https://github.com/zwping/api-tester) |  |  | ~~api在线测试~~ |
 | [zwping/scheduling](https://github.com/zwping/scheduling) | [![](https://img.shields.io/packagist/v/zwping/scheduling.svg)](https://packagist.org/packages/zwping/scheduling) | 1.0.0 | 后台管理Laravel定时任务 |
 | [zwping/dcat-media-player](https://github.com/zwping/media-player) | [![](https://img.shields.io/packagist/v/zwping/dcat-media-player.svg)](https://packagist.org/packages/zwping/dcat-media-player) | 1.0.0 | 音视频预览扩展 |
+| [zwping/dcat_sys_info](https://github.com/zwping/dcat_sys_info) | [![](https://img.shields.io/packagist/v/zwping/dcat_sys_info.svg)](https://packagist.org/packages/zwping/dcat_sys_info) | 1.0.0 | 便捷展示系统&后台信息 |
 
 #### 添加扩展本地开发
 ```bash

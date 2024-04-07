@@ -21,9 +21,9 @@ use Illuminate\Support\Str;
 
 class ExampleController extends Controller {
 
-    private ExampleRepository $mediaPlayer;
-
-    public function __construct() {
+    public function __construct(
+        private ExampleRepository $mediaPlayer,
+    ){
         $this->mediaPlayer = tap(new ExampleRepository, fn($it) => 
             $it->data = [
                 [

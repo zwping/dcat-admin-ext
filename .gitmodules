@@ -14,3 +14,6 @@
 [submodule "dcat-admin-extensions/zwping/media-player"]
 	path = dcat-admin-extensions/zwping/media-player
 	url = git@github.com:zwping/media-player.git
+[submodule "dcat-admin-extensions/zwping/dcat_sys_info"]
+	path = dcat-admin-extensions/zwping/dcat_sys_info
+	url = git@github.com:zwping/dcat_sys_info.git

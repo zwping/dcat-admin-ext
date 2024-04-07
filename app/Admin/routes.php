@@ -15,8 +15,6 @@ Route::group([
 
     $router->get('/', 'HomeController@index');
 
-    $router->get('helpers/routes', [Controllers\RouteController::class, 'index']);
-
     $router->prefix('/example')->group(function(){
         Route::get('/media-player', [Controllers\ExampleController::class, 'mediaPlayer']);
         Route::get('/media-player/{id}', [Controllers\ExampleController::class, 'mediaPlayerShow']);
